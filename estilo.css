@@ -1,11 +1,13 @@
 body {
+text-align: center;
   background: pink;
-  margin: 0;
+  margin: 1000;
   padding: 0;
 }
 
 h1{
   text-align: center;
+  color: purple
 }
 
 .caixa1 {
@@ -76,8 +78,8 @@ li a:hover {
 .rodape {
   position: absolute;
   bottom: 0;
-  background-color: black;
-  color: white;
+  background-color: lightblue;
+  color: black;
   width: 100%;
   left: 0;
   height: 40px;
@@ -88,4 +90,14 @@ li a:hover {
 .conteudo {
   position: absolute;
   top: 45px;
+  font-size: 30px;
+}
+.conteudopag2{
+  position: absolute;
+  top: 300px;
+}
+.conteudo3{
+  position: absolute;
+  top: 200px;
+  
 }
